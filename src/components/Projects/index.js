@@ -38,3 +38,4 @@ const Projects = ({ projects, addProject }) => {
 }
 
 export default Projects;
+  
